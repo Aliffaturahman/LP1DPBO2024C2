@@ -19,6 +19,9 @@ Terdapat fitur yang tersedia untuk digunakan oleh pengguna sesuai dengan kebutuh
 #### Menu 1 - Menambahkan Data ####
 ![Menu 1 - Menambahkan Data](https://github.com/Aliffaturahman/LP1DPBO2024C2/assets/100842759/8174c525-09d5-45e0-84be-04d424d06feb)
 
+#### Menu 4 - Tampilan Seluruh Data (Awal) ####
+![Menu 4 - Tampilan Seluruh Data (Awal)](https://github.com/Aliffaturahman/LP1DPBO2024C2/assets/100842759/13b63bce-c0ca-4968-8031-16012a7e29ab)
+
 #### Menu 2 - Mengubah Data ####
 ![Menu 2 - Mengubah Data](https://github.com/Aliffaturahman/LP1DPBO2024C2/assets/100842759/9611fc57-7fab-4de5-83f6-f097ae00493d)
 
@@ -30,9 +33,6 @@ Terdapat fitur yang tersedia untuk digunakan oleh pengguna sesuai dengan kebutuh
 
 #### Menu 3 - Menghapus Data (yang Tidak Ada Pada Daftar) ####
 ![Menu 3 - Menghapus Data (yang Tidak Ada Pada Daftar)](https://github.com/Aliffaturahman/LP1DPBO2024C2/assets/100842759/7217a899-b0f2-4c42-95b4-1cce72fedf97)
-
-#### Menu 4 - Tampilan Seluruh Data (Awal) ####
-![Menu 4 - Tampilan Seluruh Data (Awal)](https://github.com/Aliffaturahman/LP1DPBO2024C2/assets/100842759/13b63bce-c0ca-4968-8031-16012a7e29ab)
 
 #### Menu 4 - Tampilan Seluruh Data (Setelah Ubah dan Hapus Data) ####
 ![Menu 4 - Tampilan Seluruh Data (Setelah Ubah dan Hapus Data)](https://github.com/Aliffaturahman/LP1DPBO2024C2/assets/100842759/2d0d1d08-e1ae-440a-96f3-142b0ab0c599)
